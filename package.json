@@ -1,0 +1,16 @@
+{
+  "name": "current",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "title": "current",
+    "frame": false,
+    "width": 600,
+    "height": 480,
+    "toolbar": false,
+    "transparent": true,
+    "icon": "app/img/favicon.ico",
+    "show_in_taskbar": true,
+    "position": "center"
+  }
+}
